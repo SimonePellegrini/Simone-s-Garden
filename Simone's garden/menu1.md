@@ -1,1 +1,0 @@
-# Simone's Garden 🌱
