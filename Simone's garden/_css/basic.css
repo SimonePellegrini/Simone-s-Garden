@@ -13,6 +13,7 @@ body {
   font-family: 'Fraunces', serif; /* o il nome del font scelto */
   font-size: 20px;
   font-weight: 350;
+  text-align:justify;
 }
 
 nav ul {
