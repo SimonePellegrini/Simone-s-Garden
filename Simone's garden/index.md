@@ -9,7 +9,7 @@ As gardens can sometimes be quite messy, don't expect this blog to be always per
 ~~~
 
 
-<h3> 🍃 <a href="/il-tuo-percorso/" style="text-decoration: none; color: inherit;">What's on my mind</a></h3>
+<h3> 🍃 <a href="/math_articles/rubiks_cube/" style="text-decoration: none; color: inherit;">What's on my mind</a></h3>
 ~~~
 With so much going on in the world lately, it is useful sometimes to just sit and think about where we are going and how we feel about it :)
 @@
