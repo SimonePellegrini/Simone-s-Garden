@@ -4,12 +4,11 @@ Time goes on and so we grow, like plants in a garden. Just as a tree has multipl
 As gardens can sometimes be quite messy, don't expect this blog to be always perfect and clear, although I will try my best to keep it clean :).
 
 
-\\
 @@card
 ~~~
 
 
-<h3> 🍃 <a href="/math_articles/rubiks_cube/" style="text-decoration: none; color: inherit;">What's on my mind</a></h3>
+<h3> 🍃 <a href="/my_mind/rubiks_cube/" style="text-decoration: none; color: inherit;">What's on my mind</a></h3>
 ~~~
 With so much going on in the world lately, it is useful sometimes to just sit and think about where we are going and how we feel about it :)
 @@
