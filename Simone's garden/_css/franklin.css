@@ -375,13 +375,11 @@ code {
 /* ==================================================================
     GARDEN
 ================================================================== */
-
 /* Contenitore della griglia pulita e minimale */
 .plant-grid {
-    display: grid;
-    /* Crea colonne fluide che si adattano allo schermo (minimo 100px ciascuna) */
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    /* Spazio (gap) ben visibile tra i quadratini */
+    display: flex;
+    flex-wrap: wrap; /* Permette agli elementi di andare a capo */
+    justify-content: center; /* Centra SEMPRE i quadretti, anche se ne rimane uno solo nell'ultima riga */
     gap: 20px; 
     margin: 2rem 0;
     width: 100%;
@@ -389,28 +387,43 @@ code {
 
 /* Stile del singolo quadratino (la piantina) */
 .plant-item {
-
-    /* Mantiene il box perfettamente quadrato */
+    width: 110px; /* Fissiamo una larghezza per mantenere i quadrati uniformi */
     aspect-ratio: 1 / 1; 
-    /* Colore di sfondo leggermente più scuro della pagina per staccare con eleganza */
-    background-color: #ffcb6a; 
-    /* Bordi decisamente smussati */
+    background-color: #f4cd83; 
     border-radius: 16px; 
-    /* Centra l'emoji perfettamente all'interno del quadrato */
+    
+    /* Organizza il contenuto (emoji + titolo) in colonna */
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 2.2rem; /* Dimensione dell'emoji */
-    text-decoration: none;
     
-    /* Ombra leggerissima e transizione fluida per l'animazione */
+    text-decoration: none;
+    color: #4a3f2d; /* Colore scuro per il testo del titolo, modifica a piacimento */
+    
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.03);
     transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 /* Effetto al passaggio del mouse (Hover) */
 .plant-item:hover {
-    transform: scale(1.06); /* Si ingrandisce leggermente */
-    background-color: #d1a34d; /* Sfondo un pizzico più scuro */
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.06); /* L'ombra diventa più profonda */
+    transform: scale(1.06); 
+    background-color: #f6bb4e; 
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.06); 
+    text-decoration: none !important;
+}
+
+/* Stile specifico per l'emoji */
+.plant-emoji {
+    font-size: 2.2rem;
+    margin-bottom: 4px; /* Crea un piccolo respiro tra emoji e titolo */
+}
+
+/* Stile specifico per il titolo */
+.plant-title {
+    font-size: 0.85rem;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-align: center;
+    padding: 0 4px; /* Evita che titoli lunghi tocchino i bordi */
 }
