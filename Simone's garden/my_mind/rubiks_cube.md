@@ -1,26 +1,26 @@
 # What's on my mind 🌿
-
 ~~~
-<div class="plant-grid">
-    <a href="/mind/post-1/" class="plant-item">
-        <span class="plant-emoji">🌱</span>
-        <span class="plant-title">Seme</span>
-    </a>
-    <a href="/mind/post-2/" class="plant-item">
-        <span class="plant-emoji">🌿</span>
-        <span class="plant-title">Foglia</span>
-    </a>
-    <a href="/mind/post-4/" class="plant-item">
-        <span class="plant-emoji">🍀</span>
-        <span class="plant-title">Fortuna</span>
-    </a>
-    <a href="/mind/post-5/" class="plant-item">
-        <span class="plant-emoji">🍃</span>
-        <span class="plant-title">Vento</span>
-    </a>
-    <a href="/mind/post-6/" class="plant-item">
-        <span class="plant-emoji">🌸</span>
-        <span class="plant-title">Fiore</span>
-    </a>
+<div class="article-header">
+<h3><a href="/boh/"> Who am I, why this blog and other silly things</a> </h3>
+<p>14/01/2003</p>
 </div>
+<p class="article-content">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et sem ac dui consequat viverra eget ac ipsum. Mauris id auctor diam. Etiam vel libero ac erat volutpat fermentum. Phasellus vulputate pulvinar nulla quis ullamcorper. Phasellus pulvinar massa ut orci imperdiet egestas. Et.....
+</p>
+
+<div class="article-header">
+<h3><a> Who am I, why this blog and other silly things</a> </h3>
+<p>14/01/2003</p>
+</div>
+<p class="article-content">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et sem ac dui consequat viverra eget ac ipsum. Mauris id auctor diam. Etiam vel libero ac erat volutpat fermentum. Phasellus vulputate pulvinar nulla quis ullamcorper. Phasellus pulvinar massa ut orci imperdiet egestas. Et.....
+</p>
+
+<div class="article-header">
+<h3><a> Who am I, why this blog and other silly things</a> </h3>
+<p>14/01/2003</p>
+</div>
+<p class="article-content">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et sem ac dui consequat viverra eget ac ipsum. Mauris id auctor diam. Etiam vel libero ac erat volutpat fermentum. Phasellus vulputate pulvinar nulla quis ullamcorper. Phasellus pulvinar massa ut orci imperdiet egestas. Et.....
+</p>
 ~~~
