@@ -1,7 +1,7 @@
 # What's on my mind 🌿
 ~~~
 <div class="article-header">
-<h3><a href="/boh/"> Who am I, why this blog and other silly things</a> </h3>
+<h3><a href="/articles/presentation/"> Who am I, why this blog and other silly things</a> </h3>
 <p>14/01/2003</p>
 </div>
 <p class="article-content">
