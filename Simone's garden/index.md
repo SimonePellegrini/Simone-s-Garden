@@ -35,3 +35,11 @@ This section is basically here only to make the future me feel nostalgic ;)
 I'm a huge fan of concerts, seriously. 
 @@
 
+@@card
+~~~
+<h3>🍃 <a href="/interestingThings/" style="text-decoration: none; color: inherit;"> Random stuff </a></h3>
+~~~
+A collection of links I found interesting or that I want to read
+@@
+
+

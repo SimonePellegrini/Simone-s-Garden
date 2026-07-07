@@ -12,5 +12,7 @@ Perchè fare un blog? Non posso tenermi i miei pensieri per me? Beh, effettivame
 
 \\
 
+### Per
+
 L'analogia con il giardino è un qualcosa che ultimamente sta spopolando sul web e che, personalmente, mi piace molto. L'idea è quella di creare un blog senza pretese, in cui le pagine crescano in maniera spontanea come delle piantine. Un pensiero che inizio a scrivere adesso magari prenderà forma solo dopo qualche giorno, o dopo qualche mese o addirittura dopo qualche anno. In questo senso i miei pensieri sono come dei semi che con il tempo possono crescere diventando piccoli fili d'erba o grandi alberi imponenti, in base a quanto quel pensiero sia promettente per me. In questo senso mi piace anche l'idea che questo blog alcune volte sia "incolto, proprio come fosse un giardino che ogni tanto va potato e sistemato. Anche perchè non c'ho er tempo pe seguì ste cose da giovani.
 
