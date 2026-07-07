@@ -1,0 +1,3 @@
+## Why being bad at something is actually exciting
+
+Growing up, people around us keep telling us that to thrive in our society it is important to be always on top, to excel at what we do. As a consequence of this, people growing up internalize this strange idea that the goal that we must pursue throughout our lives is performing well in our activities and that performing badly at something is not something we should be happy about. In this small blog post I argue that this way of viewing life is detrimental and that what we should look for is the opposite of being good: we should seek our weak spots, the things we are bad at, and get excited about them.
