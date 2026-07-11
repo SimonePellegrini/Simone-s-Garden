@@ -15,7 +15,7 @@ With so much going on in the world lately, it is useful sometimes to just sit an
 
 @@card
 ~~~
-<h3> 🍃 <a href="/il-tuo-percorso/" style="text-decoration: none; color: inherit;"> Cool math</a></h3>
+<h3> 🍃 <a href="/Math/mathIEnjoy/" style="text-decoration: none; color: inherit;"> Cool math</a></h3>
 
 ~~~
 I'm just a math nerd, and sometimes I like to share with the world the things I find fascinating :)
