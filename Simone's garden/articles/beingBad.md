@@ -5,7 +5,7 @@ We should rather embrace new things we are bad at. Being bad is actually excitin
 \\
 ### It's easier to have fun when you have so much to learn
 
-Think about it. You're learning a new thing you know nothing about. Every small success you achieve, every small step looks like a huge milestone to you. This is because learning follows a logarithmic curve not a linear one. 
+Think about it. You're learning a new thing you know nothing about. Every small success you achieve, every small step looks like a huge milestone to you. This is because learning follows a logarithmic curve, not a linear one. 
 ~~~
 <div style="text-align: center;">
   <img src="https://www.valamis.com/wp-content/uploads/2022/09/learning-curve.png" 
@@ -14,4 +14,6 @@ Think about it. You're learning a new thing you know nothing about. Every small 
 </div>
 ~~~
 \\
-The initial phase of learning can be the most fun, if approached correctly. First, it is important to find a structure in your learning. What is your goal? Why are you doing that? How are you going to improve over time? Is it something that you really enjoy doing? Those are all questions that one should ask itself at some point to experience the smoothest learning track possible.
+The initial phase of learning can be the most fun, if approached correctly. First, it is important to find a structure in your learning. What is your goal? Why are you doing that? How are you going to improve over time? Is it something that you really enjoy doing? Those are all questions that one should ask oneself at some point to experience the smoothest learning track possible. Finding answers to these questions might be really challenging and frustrating, that's why finding a learning partner is a great idea! Navigating uncertainty and new ideas is clearly something that can help you survive the first days exploring your new activity. 
+\\
+Now we're almost done with the preparations, but we're missing one simple, but important, thing: a way of measuring your progress. This last element is, in my view, the single element that could completely change how your learning experience feels. Keeping track of your results makes you realize how far you've come in your learning journey and motivates you to go even further.
